@@ -1,5 +1,23 @@
 [
   {
+    "case_id": "240200812",
+    "caption": "MARTIN VS USA REMODELING CONSTRUCTION, INC.",
+    "case_type": "CONTRACTS OTHER",
+    "trial_date": "2026-09-08",
+    "category": "Finding / verdict",
+    "status": "FINDING FOR PLAINTIFF",
+    "known": true,
+    "disposition_date": "2026-09-08",
+    "award": "$30,000.00",
+    "plaintiffs": [
+      "MARTIN, STEVEN"
+    ],
+    "defendants": [
+      "USA REMODELING CONSTRUCTION INC"
+    ],
+    "logged_at": "2026-09-08"
+  },
+  {
     "case_id": "250303413",
     "caption": "KINNIBREW VS BIGELOW ETAL",
     "case_type": "QUIET TITLE",
@@ -20,6 +38,25 @@
       "BIGELOW, JULIUS"
     ],
     "logged_at": "2026-09-03"
+  },
+  {
+    "case_id": "230501581",
+    "caption": "FANTE VS CAMERON ETAL",
+    "case_type": "MOTOR VEHICLE ACCIDENT",
+    "trial_date": "2026-09-08",
+    "category": "Settlement",
+    "status": "PRAEC/SETTLE DISCONTINUE END",
+    "known": true,
+    "disposition_date": "2026-09-03",
+    "award": null,
+    "plaintiffs": [
+      "FANTE, LINDA"
+    ],
+    "defendants": [
+      "CAMERON, CARL",
+      "COHEN, STANLEY"
+    ],
+    "logged_at": "2026-09-08"
   },
   {
     "case_id": "250602715",
@@ -80,6 +117,24 @@
       "PHILADELPHIA FEDERAL CREDIT UNION"
     ],
     "logged_at": "2026-09-01"
+  },
+  {
+    "case_id": "250101143",
+    "caption": "OGUNDOJU VS PHAIR",
+    "case_type": "MOTOR VEHICLE ACCIDENT",
+    "trial_date": "2026-09-08",
+    "category": "Settlement",
+    "status": "SETTLED PRIOR TO ASSGN TRL JUD",
+    "known": true,
+    "disposition_date": "2026-08-31",
+    "award": null,
+    "plaintiffs": [
+      "OGUNDOJU, QUNMAR"
+    ],
+    "defendants": [
+      "PHAIR, JAMES"
+    ],
+    "logged_at": "2026-09-08"
   },
   {
     "case_id": "241100999",

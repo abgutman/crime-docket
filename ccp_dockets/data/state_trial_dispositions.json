@@ -154,9 +154,10 @@
     "trial_date": "2026-09-08",
     "case_type": "MOTOR VEHICLE ACCIDENT",
     "first_seen": "2026-07-23",
-    "last_status": "",
-    "reported": false,
-    "retired": false
+    "last_status": "PRAEC/SETTLE DISCONTINUE END",
+    "reported": true,
+    "retired": true,
+    "_polled_before": true
   },
   "250300474": {
     "caption": "HAIRSTON VS AAMCO TRANSMISSIONS INC",
@@ -217,27 +218,30 @@
     "trial_date": "2026-09-08",
     "case_type": "BOARD OF REVISION OF TAXES-MVA",
     "first_seen": "2026-07-23",
-    "last_status": "",
+    "last_status": "LISTED FOR TRIAL",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "250503644": {
     "caption": "IN RE: APPEAL OF RATANAPRASATPORN, JOHN",
     "trial_date": "2026-09-08",
     "case_type": "BOARD OF REVISION OF TAXES-MVA",
     "first_seen": "2026-07-23",
-    "last_status": "",
+    "last_status": "LISTED FOR TRIAL",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "250600614": {
     "caption": "IN RE: APPEAL OF SCOTT, JOHN",
     "trial_date": "2026-09-08",
     "case_type": "BOARD OF REVISION OF TAXES-MVA",
     "first_seen": "2026-07-23",
-    "last_status": "",
+    "last_status": "LISTED FOR TRIAL DATE CERTAIN",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "250802269": {
     "caption": "IN RE: APPEAL OF TOWNHILL, TIMOTHY",
@@ -493,18 +497,20 @@
     "trial_date": "2026-09-08",
     "case_type": "CONTRACTS OTHER",
     "first_seen": "2026-07-23",
-    "last_status": "",
-    "reported": false,
-    "retired": false
+    "last_status": "FINDING FOR PLAINTIFF",
+    "reported": true,
+    "retired": true,
+    "_polled_before": true
   },
   "240702858": {
     "caption": "MCCOY ETAL VS WILLIAMS ETAL",
     "trial_date": "2026-09-08",
     "case_type": "QUIET TITLE",
     "first_seen": "2026-07-23",
-    "last_status": "",
+    "last_status": "LISTED FOR PRE-TRIAL CONF",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "241102619": {
     "caption": "JIN ETAL VS HIU ETAL",
@@ -1368,18 +1374,20 @@
     "trial_date": "2026-09-08",
     "case_type": "QUIET TITLE",
     "first_seen": "2026-08-06",
-    "last_status": "",
+    "last_status": "LISTED FOR TRIAL",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "250802526": {
     "caption": "ROBINS ETAL VS ERIE INSURANCE COMPANY",
     "trial_date": "2026-09-08",
     "case_type": "INSURANCE, DECLARATORY JUDGMNT",
     "first_seen": "2026-08-06",
-    "last_status": "",
+    "last_status": "LISTED FOR TRIAL",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "240201508": {
     "caption": "BARTOLOMEO ETAL VS CUMMING ETAL",
@@ -1899,18 +1907,20 @@
     "trial_date": "2026-09-08",
     "case_type": "MOTOR VEHICLE ACCIDENT",
     "first_seen": "2026-08-25",
-    "last_status": "",
-    "reported": false,
-    "retired": false
+    "last_status": "SETTLED PRIOR TO ASSGN TRL JUD",
+    "reported": true,
+    "retired": true,
+    "_polled_before": true
   },
   "240803233": {
     "caption": "IN RE: APPEAL OF ECOM GRANT EMERALD LLC",
     "trial_date": "2026-09-08",
     "case_type": "BOARD OF REVISION OF TAXES-MVA",
     "first_seen": "2026-08-25",
-    "last_status": "",
+    "last_status": "LISTED IN TRIAL READY POOL",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "250102996": {
     "caption": "IN RE: APPEAL OF RAILROAD RECOVERY INC",
@@ -1935,9 +1945,10 @@
     "trial_date": "2026-09-08",
     "case_type": "EQUITY - REAL ESTATE (TRO)",
     "first_seen": "2026-08-25",
-    "last_status": "",
+    "last_status": "LISTED/ASSESSMNT DAMAGES HRNG",
     "reported": false,
-    "retired": false
+    "retired": false,
+    "_polled_before": true
   },
   "250702895": {
     "caption": "NAZARETH HOSPITAL VS STARLING",
